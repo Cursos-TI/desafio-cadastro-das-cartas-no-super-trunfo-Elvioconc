@@ -73,7 +73,6 @@ int main() {
 
     //criação do calculo do pib e desidade 
 
-    // Calculando derivados
     densidade = populacao / area;
     pib_per_capita = pib_cidade / populacao;
    
